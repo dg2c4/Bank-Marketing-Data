@@ -1,13 +1,12 @@
 # *Bank-Marketing-Data*
-Los datos se relacionan con campañas de marketing directo (llamadas telefónicas) de una entidad bancaria portuguesa. El objetivo de la clasificación es predecir si el cliente suscribirá un depósito a plazo (variable y).
 
 <p align="center">
-  <img width="800" height="500" src="https://github.com/dg2c4/" alt="Penguin-Species-Clasification-Illustration">
+  <img width="800" height="500" src="https://github.com/dg2c4/" alt="Bank-Marketing-Data-Illustration">
 </p>
 
 
 ## *Objetivo:* 
-Desarrollar un análisis completo que permita extraer datos sobre los pingüinos del archipiélago Palmer (Antártida), utilizando herramientas de visualización de datos para presentar los resultados de manera efectiva.
+Los datos se relacionan con campañas de marketing directo (llamadas telefónicas) de una entidad bancaria portuguesa. El objetivo de la clasificación es predecir si el cliente suscribirá un depósito a plazo (variable y).
 El trabajo se divide en tres componentes principales:
 
 ### *1. Análisis Exploratorio:*
@@ -28,9 +27,9 @@ El trabajo se divide en tres componentes principales:
 
 
 ## *Conjunto de datos:* 
-Contiene datos sobre los pingüinos del archipiélago Palmer (Antártida).
+Contiene datos sobre campañas de marketing directo (llamadas telefónicas) de una entidad bancaria portuguesa.
 
-    https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data/data 
+    https://archive.ics.uci.edu/dataset/222/bank+marketing
     
 
 ## *Ejercicio:*
@@ -48,12 +47,6 @@ Contiene datos sobre los pingüinos del archipiélago Palmer (Antártida).
 | Storytelling y Conclusiones | 10 pts |
 |Total | 50 pts |
 
-·  (10 puntos).
-·  (10 puntos).
-·  (20 puntos).
-·  (10 puntos).
-
-
 ## *Systems engineering:*
 | User: | David Gutierrez Chaves |
 |------|--------|
@@ -66,4 +59,4 @@ Contiene datos sobre los pingüinos del archipiélago Palmer (Antártida).
 ## Created By:
     https://github.com/dg2c4
     
-### *Date:* 06/03/2025 - 13/03/2025
+### *Date:* 04/04/2025 - 24/04/2025
