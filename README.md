@@ -1,13 +1,8 @@
 # *Bank-Marketing-Data*
 Los datos se relacionan con campañas de marketing directo (llamadas telefónicas) de una entidad bancaria portuguesa. El objetivo de la clasificación es predecir si el cliente suscribirá un depósito a plazo (variable y).
 
-
-
-
-# Penguin-Species-Classification
-
 <p align="center">
-  <img width="800" height="500" src="https://github.com/dg2c4/Penguin-Species-Classification/blob/main/Assets/Penguin-Species-Clasification.webp" alt="Penguin-Species-Clasification-Illustration">
+  <img width="800" height="500" src="https://github.com/dg2c4/" alt="Penguin-Species-Clasification-Illustration">
 </p>
 
 
