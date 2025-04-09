@@ -1,7 +1,7 @@
 # *Bank-Marketing-Data*
 
 <p align="center">
-  <img width="800" height="500" src="https://github.com/dg2c4/" alt="Bank-Marketing-Data-Illustration">
+  <img width="800" height="500" src="https://github.com/dg2c4/Bank-Marketing-Data/blob/main/Assets/Bank-Marketing-Data-Ilustration.png" alt="Bank-Marketing-Data-Illustration">
 </p>
 
 
